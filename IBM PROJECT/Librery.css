@@ -1,0 +1,480 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head{
+    /* border: 2px solid black; */
+    height:120px;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+img {
+    position: absolute;
+    width: 140px;
+    height: 110px;
+    /* mix-blend-mode: color-burn; */
+}
+
+h1{
+    position: absolute;
+    left: 10%;
+    top: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.head1{
+    /* border: 2px solid black; */
+    width: 55%;
+    margin: 10px;
+    position: relative;
+    left: 40%;
+    top: 20%;
+}
+
+.head button a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+.me {
+    width: 15%;
+    position: relative;
+    left: 80%;
+    top: 20%;
+
+}
+
+.me p a{
+    text-decoration: none;
+    font-weight: bold;
+}
+.head2{
+    /* border: 2px solid black; */
+    height: 50px;
+    background-color: rgb(56, 77, 96);
+}
+
+.head2 p{
+    position: relative;
+    top: 20%;
+}
+
+.head2 p a{
+    position: relative;
+    left: 10%;
+    text-decoration: none;
+    color:azure;
+    
+}
+
+.sect{
+    /* border: 2px solid black; */
+    height: 500px;
+}
+.secti{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 100%;
+    
+} 
+
+.secti img{
+    background-color: rgb(145, 183, 183);
+    height: 65%;
+    width: 100%;
+    padding: 10px;
+}
+
+.input-group{
+    position: absolute;
+    width: 50%;
+    height: 7%;
+    top: 65%;
+    left: 25%;
+}
+
+.sect0{
+    /* border: 2px solid black; */
+    height: 200px;
+    background-color: hsl(177, 52%, 80%);
+}
+
+.secti0{
+    /* border: 2px solid black; */
+    height: 50px;
+    width: 70%;
+    position: absolute;
+    left: 15%;
+    border-radius: 10px;
+    background-color: rgb(206, 194, 217);
+    
+}
+
+.secti0 p{
+   display: inline-block;
+   color: rgb(48, 36, 28);
+}
+
+.sect0 a{
+    color: rgb(223, 5, 5);
+}
+
+.secti0 h2{
+    color:  rgb(55, 130, 210);
+    display: inline;
+    
+}
+
+.b{
+    /* border: 2px solid black; */
+    height: 120px;
+    width: 180px;
+    display: inline-block;
+    position: relative;
+    top: 30%;
+    left: 20%;
+    margin-left: 100px;
+}
+.img1{
+    /* border: 2px solid black; */
+    height: 200px;
+    position: relative;
+    top: 30%;
+}
+
+.sect1{
+    /* border: 2px solid black; */
+    height: 600px;
+    background-color: hsl(180, 42%, 55%);;
+}
+
+.secti1{
+    /* border: 2px solid black; */
+    height: 100%;
+    /* display: block; */
+}
+
+.a{
+    border: 2px solid black ;
+    height: 400px;
+    width: 300px;
+    display: inline-block;
+    margin-top: 8%;
+    margin-left: 4%;
+    border-radius: 30px;
+}
+
+.a h3{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+    padding-top: 15px;
+}
+
+.a li{
+    margin: 20px;
+    padding-top: 20px;
+}
+
+.a a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+.a:hover{
+    box-shadow: 2px 2px 10px black;
+}
+
+.sect2{
+    border: 2px solid black;
+    height: 500px;
+    background-color: aquamarine;
+}
+
+.y{
+    height: 100px;
+    width: 220px;
+    position: relative;
+    top: 160px;
+    left: 10%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.zz{
+    width: 70%;
+    position: relative;
+    left: 30%;
+    bottom: 60px;
+}
+
+.z{
+    border: 2px solid black;
+    height: 120px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    background-color: rgb(72, 141, 198);
+    
+}
+
+
+.book{
+    position: relative;
+    left: 50%;
+    bottom: 80%;
+    width: 50%;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.z img{
+    width: 45%;
+    height: 100%;
+    position: relative;
+
+}
+
+.z1{
+    border: 2px solid black;
+    height: 120px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    left: 10%;
+    background-color: rgb(72, 141, 198);
+}
+
+.ebook{
+    /* border: 2px solid black; */
+    position: relative;
+    left: 45%;
+    bottom: 90%;
+    width: 50%;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+.z1 img{
+    width: 45%;
+    height: 100%;
+    position: relative;
+}
+
+.z2{
+    border: 2px solid black;
+    height: 120px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    left: 20%;
+    background-color: rgb(72, 141, 198);
+}
+
+.z2 img{
+    width: 45%;
+    height: 100%;
+    position: relative;
+}
+
+.ejour{
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    position: relative;
+    bottom: 90%;
+    
+}
+
+.xx{
+    width: 70%;
+    position: relative;
+    left: 30%;
+    bottom: 30px;
+}
+
+.x{
+    border: 2px solid black;
+    height: 120px;
+    width: 220px;
+    display: inline-block; 
+    background-color: rgb(72, 141, 198);  
+}
+
+.x img{
+    width: 45%;
+    height: 100%;
+    position: relative;
+}
+
+.Bound{
+    position: relative;
+    left: 45%;
+    bottom: 90%;
+    width: 50%;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.x1{
+    border: 2px solid black;
+    height: 120px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    left: 10%;
+    background-color: rgb(72, 141, 198);
+    
+
+}
+
+.Thesis{
+    position: relative;
+    left: 45%;
+    bottom: 90%;
+    width: 50%;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.x1 img{
+    width: 45%;
+    height: 100%;
+    position: relative;
+}
+
+
+.x2{
+    border: 2px solid black;
+    height: 120px;
+    width: 220px;
+    display: inline-block;
+    position: relative;
+    left: 20%;
+    background-color: rgb(72, 141, 198);
+    
+}
+
+.x2 img{
+    width: 45%;
+    height: 100%;
+    position: relative;
+}
+
+.tech{
+    width: 55%;
+    position: relative;
+    bottom: 90%;
+    left: 40%;
+    text-align: end;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+.sect3{
+    border: 2px solid black;
+    height: 600px;
+    background-color: hsl(180, 42%, 55%);;;
+}
+
+.secti3 img{
+    mix-blend-mode: color-burn;
+    left: 10%;
+    height: 300px;
+    width: 350px;
+}
+.secti3 h2{
+    position: relative;
+    top: 55%;
+    left: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.secti3 p{
+    position: relative;
+    top: 55%;
+    left: 30%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.secti3{
+    height: 80%;
+    width: 25%;
+    position: relative;
+    left: 10%;
+}
+
+.foot{
+    height: 100%;
+}
+
+.secti4{
+    /* border: 2px solid black; */
+    height: 40px;
+    width: 100%;
+    position: relative;
+    bottom: 50%;
+    font-size: large;
+    font-weight: bold;
+}
+
+
+.secti4 p {
+    text-align: center;
+}
+
+.secti4 a{
+    text-decoration: none;
+    color: black;
+    
+}
+
+.secti5{
+    height: 100px;
+    width: 30%;
+    position: relative;
+    left: 70%;
+    bottom: 125%;
+}
+
+.secti5 h3 , p{
+    font-weight: bold;
+}
+
+.guid{
+    width: 25%;
+    height: 60%;
+    position: relative;
+    bottom: 60%;
+    left: 40%;
+}
+
+.guid h2{
+    font-weight: bold;
+}
+
+.guid p a{
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
